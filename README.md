@@ -14,7 +14,3 @@ Python • Kafka • Node.js • React • IaC (Terraform) • Docker/Kubernetes
 
 ## Métricas (opcional)
 ![Stats](https://github-readme-stats.vercel.app/api?username=RegisCamargo&show_icons=true&theme=radical)
-
-## Contato
-- LinkedIn: https://www.linkedin.com/in/regiscamargo
-- E-mail: regis.camargo@example.com
