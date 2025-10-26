@@ -12,9 +12,6 @@ Python • Kafka • Node.js • React • IaC (Terraform) • Docker/Kubernetes
 - Infra como código (Terraform), CI/CD e observabilidade.
 - Multicloud: AWS, GCP e Azure; containerização com Docker/Kubernetes.
 
-## Projetos
-[![proactive-asset-play](https://github-readme-stats.vercel.app/api/pin/?username=RegisCamargo&repo=proactive-asset-play&theme=radical)](https://github.com/RegisCamargo/proactive-asset-play)
-
 ## Métricas (opcional)
 ![Stats](https://github-readme-stats.vercel.app/api?username=RegisCamargo&show_icons=true&theme=radical)
 
