@@ -61,17 +61,6 @@
 
 ---
 
-### 📌 Repositórios em destaque
-
-[![facerecognition](https://github-readme-stats.vercel.app/api/pin/?username=RegisCamargo&repo=facerecognition&theme=radical)](https://github.com/RegisCamargo/facerecognition)
-[![api-gpt-connector](https://github-readme-stats.vercel.app/api/pin/?username=RegisCamargo&repo=api-gpt-connector&theme=radical)](https://github.com/RegisCamargo/api-gpt-connector)
-[![chat-sockets](https://github-readme-stats.vercel.app/api/pin/?username=RegisCamargo&repo=chat-sockets&theme=radical)](https://github.com/RegisCamargo/chat-sockets)
-[![grpc-server](https://github-readme-stats.vercel.app/api/pin/?username=RegisCamargo&repo=grpc-server&theme=radical)](https://github.com/RegisCamargo/grpc-server)
-[![Pastelaria-do-ze](https://github-readme-stats.vercel.app/api/pin/?username=RegisCamargo&repo=Pastelaria-do-ze&theme=radical)](https://github.com/RegisCamargo/Pastelaria-do-ze)
-[![calculadora-salario-go](https://github-readme-stats.vercel.app/api/pin/?username=RegisCamargo&repo=calculadora-salario-go&theme=radical)](https://github.com/RegisCamargo/calculadora-salario-go)
-
----
-
 ### 🌐 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/régis-camargo-202747211)
