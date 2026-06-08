@@ -58,23 +58,6 @@ Tenho paixão por **automação**, **qualidade de código** e **boas práticas d
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RegisCamargo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisCamargo&layout=compact&langs_count=7&theme=radical" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RegisCamargo&theme=radical&hide_border=true&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RegisCamargo&theme=radical&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RegisCamargo&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
-  </picture>
-</div>
-
 <div align="center">
   <sub>Built with ❤️ por <strong>Regis Camargo</strong></sub>
   <br>
