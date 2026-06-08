@@ -2,8 +2,6 @@
 
 **Engenheiro de Software Sênior** · UNIPLAC + Harvard Extension
 
-💭 Virado no guede
-
 ---
 
 ### 🛠️ Stack
