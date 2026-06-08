@@ -68,17 +68,12 @@ Tenho paixão por **automação**, **qualidade de código** e **boas práticas d
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RegisCamargo&theme=radical" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RegisCamargo&theme=radical&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RegisCamargo&theme=radical&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RegisCamargo&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+  </picture>
 </div>
-
----
-
-## 📫 Vamos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/regisscamargo)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RegisCamargo)
-
----
 
 <div align="center">
   <sub>Built with ❤️ por <strong>Regis Camargo</strong></sub>
